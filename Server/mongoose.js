@@ -13,5 +13,3 @@ exports.start = () => {
 };
 
 
-// mongodb://localhost:27017/RealEstateDB
-// mongodb+srv://Primehome:163920@cluster0.7rmtwf5.mongodb.net/RealEstateDB
